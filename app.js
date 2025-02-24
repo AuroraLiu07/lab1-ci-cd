@@ -1,1 +1,1 @@
-console.log("Hello, CI/CD!");
+print("Hello,CI/CD")
